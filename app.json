@@ -5,7 +5,7 @@
     "env": {
         "NAME": {
             "description": "Your name",
-            "value": "heroku"
+            "value": "Sean"
         }
     },
     "website": "http://heroku-app.herokuapp.com",
